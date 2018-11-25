@@ -1,0 +1,265 @@
+# depslib dependency file v1.0
+1520496071 source:c:\users\shirish shrestha\desktop\cppproject\gamingwithai\main.cpp
+	"SFML/Graphics.hpp"
+	"SFML/Audio.hpp"
+	<iostream>
+	<Screens.h>
+	"Menu.h"
+	"Game.h"
+
+1520488558 c:\users\shirish shrestha\desktop\cppproject\gamingwithai\include\screens.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+
+1520488579 c:\users\shirish shrestha\desktop\cppproject\gamingwithai\include\menu.h
+	<Screens.h>
+
+1520484695 source:c:\users\shirish shrestha\desktop\cppproject\gamingwithai\src\screens.cpp
+	"Screens.h"
+
+1520488635 c:\users\shirish shrestha\desktop\cppproject\gamingwithai\include\game.h
+	<Screens.h>
+	<cmath>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1520486922 source:c:\users\shirish shrestha\desktop\cppproject\gamingwithai\src\neural.cpp
+	"neural.h"
+
+1520486922 c:\users\shirish shrestha\desktop\cppproject\gamingwithai\include\neural.h
+	<math.h>
+	<iostream>
+	<cstdlib>
+
+1520496785 source:c:\users\shirish shrestha\desktop\cppproject\gamingwithai\src\game.cpp
+	"Game.h"
+	"Neural.h"
+	"Menu.h"
+	"Score.h"
+
+1520495695 source:c:\users\shirish shrestha\desktop\cppproject\gamingwithai\src\menu.cpp
+	"Menu.h"
+	"Game.h"
+	"Credits.h"
+
+1520495726 source:c:\users\shirish shrestha\desktop\cppproject\gamingwithai\src\credits.cpp
+	"Credits.h"
+	"Menu.h"
+	"Score.h"
+
+1520494777 c:\users\shirish shrestha\desktop\cppproject\gamingwithai\include\credits.h
+	<Screens.h>
+
+1520495862 source:c:\users\shirish shrestha\desktop\cppproject\gamingwithai\src\score.cpp
+	"Score.h"
+	"Menu.h"
+
+1520495695 c:\users\shirish shrestha\desktop\cppproject\gamingwithai\include\score.h
+	<Screens.h>
+
+1520579160 source:c:\users\rashik\downloads\gamingwithai\gamingwithai\main.cpp
+	"SFML/Graphics.hpp"
+	"SFML/Audio.hpp"
+	<iostream>
+	<Screens.h>
+	"Menu.h"
+	"Game.h"
+
+1520579162 c:\users\rashik\downloads\gamingwithai\gamingwithai\include\screens.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+
+1520579162 c:\users\rashik\downloads\gamingwithai\gamingwithai\include\menu.h
+	<Screens.h>
+
+1520579162 c:\users\rashik\downloads\gamingwithai\gamingwithai\include\game.h
+	<Screens.h>
+	<cmath>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1520579162 source:c:\users\rashik\downloads\gamingwithai\gamingwithai\src\credits.cpp
+	"Credits.h"
+	"Menu.h"
+	"Score.h"
+
+1520579162 c:\users\rashik\downloads\gamingwithai\gamingwithai\include\credits.h
+	<Screens.h>
+
+1520579162 c:\users\rashik\downloads\gamingwithai\gamingwithai\include\score.h
+	<Screens.h>
+
+1520579162 source:c:\users\rashik\downloads\gamingwithai\gamingwithai\src\game.cpp
+	"Game.h"
+	"Neural.h"
+	"Menu.h"
+	"Score.h"
+
+1520579162 c:\users\rashik\downloads\gamingwithai\gamingwithai\include\neural.h
+	<math.h>
+	<iostream>
+	<cstdlib>
+
+1520579162 source:c:\users\rashik\downloads\gamingwithai\gamingwithai\src\menu.cpp
+	"Menu.h"
+	"Game.h"
+	"Credits.h"
+
+1520579162 source:c:\users\rashik\downloads\gamingwithai\gamingwithai\src\neural.cpp
+	"neural.h"
+
+1520579162 source:c:\users\rashik\downloads\gamingwithai\gamingwithai\src\score.cpp
+	"Score.h"
+	"Menu.h"
+
+1520579162 source:c:\users\rashik\downloads\gamingwithai\gamingwithai\src\screens.cpp
+	"Screens.h"
+
+1520579160 source:c:\users\rashik\desktop\gamingwithai\main.cpp
+	"SFML/Graphics.hpp"
+	"SFML/Audio.hpp"
+	<iostream>
+	<Screens.h>
+	"Menu.h"
+	"Game.h"
+
+1520579162 c:\users\rashik\desktop\gamingwithai\include\screens.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+
+1520579162 c:\users\rashik\desktop\gamingwithai\include\menu.h
+	<Screens.h>
+
+1520579162 c:\users\rashik\desktop\gamingwithai\include\game.h
+	<Screens.h>
+	<cmath>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1520579162 source:c:\users\rashik\desktop\gamingwithai\src\credits.cpp
+	"Credits.h"
+	"Menu.h"
+	"Score.h"
+
+1520579162 c:\users\rashik\desktop\gamingwithai\include\credits.h
+	<Screens.h>
+
+1520579162 c:\users\rashik\desktop\gamingwithai\include\score.h
+	<Screens.h>
+
+1520579162 source:c:\users\rashik\desktop\gamingwithai\src\menu.cpp
+	"Menu.h"
+	"Game.h"
+	"Credits.h"
+
+1520579162 source:c:\users\rashik\desktop\gamingwithai\src\neural.cpp
+	"neural.h"
+
+1520579162 c:\users\rashik\desktop\gamingwithai\include\neural.h
+	<math.h>
+	<iostream>
+	<cstdlib>
+
+1520579162 source:c:\users\rashik\desktop\gamingwithai\src\score.cpp
+	"Score.h"
+	"Menu.h"
+
+1520579162 source:c:\users\rashik\desktop\gamingwithai\src\screens.cpp
+	"Screens.h"
+
+1520748706 source:e:\project ai snake\gamingwithai\main.cpp
+	"SFML/Graphics.hpp"
+	"SFML/Audio.hpp"
+	<iostream>
+	<Screens.h>
+	<fstream>
+	"Menu.h"
+	"Game.h"
+	"Neural.h"
+	"Manual.h"
+
+1520609020 e:\project ai snake\gamingwithai\include\screens.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+
+1520749848 e:\project ai snake\gamingwithai\include\menu.h
+	<Screens.h>
+
+1520746179 e:\project ai snake\gamingwithai\include\game.h
+	<Screens.h>
+	<cmath>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<string>
+	<sstream>
+	<cstdlib>
+	"neural.h"
+
+1520733157 source:e:\project ai snake\gamingwithai\src\credits.cpp
+	"Credits.h"
+	"Menu.h"
+	"Score.h"
+
+1520579162 e:\project ai snake\gamingwithai\include\credits.h
+	<Screens.h>
+
+1520579162 e:\project ai snake\gamingwithai\include\score.h
+	<Screens.h>
+
+1520750153 source:e:\project ai snake\gamingwithai\src\game.cpp
+	"Game.h"
+	"Neural.h"
+	"Menu.h"
+	"Score.h"
+	<string>
+	<sstream>
+
+1520730175 e:\project ai snake\gamingwithai\include\neural.h
+	<iostream>
+	<cstdlib>
+	<math.h>
+	<fstream>
+
+1520749866 source:e:\project ai snake\gamingwithai\src\menu.cpp
+	"Menu.h"
+	"Game.h"
+	"Credits.h"
+	"Manual.h"
+
+1520749848 source:e:\project ai snake\gamingwithai\src\neural.cpp
+	<fstream>
+	"Neural.h"
+
+1520743853 source:e:\project ai snake\gamingwithai\src\score.cpp
+	"Score.h"
+	"Menu.h"
+
+1520579162 source:e:\project ai snake\gamingwithai\src\screens.cpp
+	"Screens.h"
+
+1520732548 e:\project ai snake\gamingwithai\include\manual.h
+	<Screens.h>
+	<cmath>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<string>
+	<sstream>
+	"neural.h"
+
+1520732638 source:e:\project ai snake\gamingwithai\src\manual.cpp
+	"Manual.h"
+	"Neural.h"
+	"Menu.h"
+	"Score.h"
+	<string>
+	<sstream>
+
